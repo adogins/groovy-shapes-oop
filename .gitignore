@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Groovy / Java build artifacts
+*.class
+*.log
+
+# IDE files
+.vscode/
